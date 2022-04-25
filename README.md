@@ -32,3 +32,16 @@ operacija je bez efekta. Tekstualni opis pomeranja je oblika Pomeranje: smer.
 ---------------------------
 Priložena je klasa sa glavnom funkcijom koja ispituje osnovne funkcionalnosti paketa klasa uz
 ispisivanje rezultata na standardnom izlazu (konzoli).
+
+---------------------------
+
+---    Primer izlaza:   ---
+
+Bogatiji tim je tim A
+
+Postoji levi vagon: [B50,A51,B47,A55,B50]
+
+[A51,B47,A55,B50]_[B50]
+
+Ne postoji vagon.
+
